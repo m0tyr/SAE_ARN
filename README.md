@@ -1,5 +1,7 @@
 # SAE_ARN
-SAE BUT1
+VERSION IPYNB => <a href="https://github.com/m0tyr/SAE_ARN/blob/main/using_biology.ipynb">lien</a>
+VERSION HTML
+↓↓↓↓↓↓↓↓↓↓↓
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
